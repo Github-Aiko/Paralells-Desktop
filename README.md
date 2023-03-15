@@ -1,10 +1,10 @@
 # Paralells-Desktop
 
-B1 : Cấp quyền Full disk Access cho Terminal ( MacOS 13 )
+Step 1: Grant Full disk Access permission to Terminal (MacOS 13)
 
-B2 : Tắt ứng dụng Paralells Desktop hoàn toàn
+Step 2: Turn off the Parallells Desktop application completely
 
-B3 : Dán link dưới vào terminal ( Nhập mật khảu máy ) và check kết quả
+Step 3: Paste the link below into the terminal (Enter your password) and check the results
 
 ```
 bash <(curl -ls https://raw.githubusercontent.com/Github-Aiko/Paralells-Desktop/active/auto.sh)
